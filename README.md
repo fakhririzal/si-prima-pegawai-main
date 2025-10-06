@@ -59,7 +59,7 @@ Pastikan sudah menginstal **Node.js** dan **npm** di sistem Anda.
 5. Akses aplikasi melalui browser di:
 
    ```
-   http://localhost:5173
+   http://localhost:8080
    ```
 
 ---
